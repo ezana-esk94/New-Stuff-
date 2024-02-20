@@ -1,8 +1,8 @@
 #!/bin/zsh
 
-## Script scans my entire home subnet and
+## Script scans my entire subnet and
 ## reports active sessions of the specified port.
-## Finally gives user the option to deep scan the open port
+## Finally gives user the option to deep scan the open port before exiting
 
 ## Prep work
 subnet="192.168.12.1/24"
