@@ -3,4 +3,5 @@ Using Nmap, it will reveal all systems on the subnet with the specified port ope
 a deeper scan that provides more specific data such as versions. 
 
 
-This is a very quick and reliable scan to discover commonly targeted/vulnerable ports in your network at a point in time. 
+This is a very quick and reliable script to discover commonly targeted/vulnerable ports in your network at a point in time.
+Also, this can be a great starting point to take the data that is presented and perform other actions. 
