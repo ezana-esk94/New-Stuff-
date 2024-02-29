@@ -4,4 +4,4 @@ a deeper scan that provides more specific data such as versions.
 
 
 This is a very quick and reliable script to discover commonly targeted/vulnerable ports in your network at a point in time.
-Also, this can be a great starting point to take the data that is presented and perform other actions. 
+Also, this can be a suitable starting point, taking the outputted data and perfomring other actions as needed.
